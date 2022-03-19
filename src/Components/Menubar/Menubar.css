@@ -1,0 +1,18 @@
+.menu-container{
+    list-style: none;
+    font-size: 20px;
+    cursor: pointer;
+    
+}
+.item{
+    font-size: 25px;
+    font-weight: 700;
+}
+.items{
+    background-color: deepskyblue;
+    border-radius: 5px;
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 10px;
+}
